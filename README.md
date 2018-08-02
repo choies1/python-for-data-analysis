@@ -1,2 +1,19 @@
-# python-for-data-analysis
-jupyter notebook for python for data analysis
+# 데이터 분석을 위한 파이썬
+
+- 소스 코드 위치: /notebook 폴더
+  - notebook 폴더에는 이 책에서 사용한 코드가 주피터 노트북 파일로 있습니다.
+- 데이터 파일 위치: /data 폴더
+  - data 폴더에는 이 책의 코드에서 사용한 데이터 파일이 있습니다.
+  - 다운로드 받은 data 폴더 내의 파일은 자신이 이용하는 작업 폴더 내의 data 폴더(여기서는 C:\myPyCode\data)에 복사해서 이용하면 됩니다.
+
+- 주피터 노트북 사용 방법 설명
+  1. 다운로드 받은 주피터 노트북 파일을 이 책의 자신의 작업 폴더(여기서는 C:\myPyCode)에 복사
+  2. Anaconda Prompt를 실행해서 작업 폴더로 이동 (작업 폴더가 C:\myPyCode라면 'cd C:\myPyCode')
+  3. 명령창에 'jupyter notebook' 입력
+  4. 다운로드 받은 노트북 파일을 클릭하면 해당 노트북이 열림
+  5. 코드 셀에 있는 코드를 실행
+
+
+
+
+
